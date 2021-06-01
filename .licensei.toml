@@ -1,0 +1,15 @@
+approved = [
+    "mit",
+    "apache-2.0",
+    "bsd-3-clause",
+    "bsd-2-clause",
+    "mpl-2.0",
+]
+
+ignored = [
+    "github.com/gogo/protobuf",
+    "github.com/ghodss/yaml",
+    "github.com/golang/protobuf",
+    "github.com/ugorji/go/codec",
+    "sigs.k8s.io/yaml",
+]
